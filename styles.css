@@ -1,0 +1,12 @@
+h1 {
+	font-family: 'Orbitron', sans-serif;
+	border-style: hidden;
+}
+div {
+	border-style: hidden;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 25px;
+}
+body {
+	background-image: url("assets/Block.png");
+}
